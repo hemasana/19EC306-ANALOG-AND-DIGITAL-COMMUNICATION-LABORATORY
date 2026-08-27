@@ -87,6 +87,40 @@ Ensemble 5
 0.4
 
 # OUTPUT:
+ Alpha Matrix
+a =
+
+         0    0.2000    0.5000    0.9000
+
+
+ Code length matrix
+n =
+
+     3     2     2     1
+
+Codeword 1 :      0     0     0
+
+Codeword 2 :      0     0
+
+Codeword 3 :      1     0
+
+Codeword 4 :      1
+
+Avg. Code Length : 
+l =
+
+    2.5000
+
+Entropy : 
+h =
+
+    2.0142
+
+Efficiency :    80.5699
+
+Redundancy :    19.4301
+
+>> 
 
 
 # RESULT:
