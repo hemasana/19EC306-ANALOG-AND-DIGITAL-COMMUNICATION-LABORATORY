@@ -26,6 +26,8 @@ subplot(3,1,3);
 plot(y1);
 
 # OUTPUT:
+<img width="815" height="550" alt="AMPLITUDE SHIFT KEYING" src="https://github.com/user-attachments/assets/cb13fbbe-34c0-49e7-945b-d987634f1e5a" />
+
 
 # RESULT:
 Thus, generation of ASK was implemented using MATLAB.
